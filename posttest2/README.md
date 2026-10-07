@@ -11,7 +11,7 @@ Program ini juga menerapkan inheritance(pewarisan) dan Relasi UML.
 
 3. Komposisi: Pada program ini, class `Transaksi` terdiri dari `DetailTransaksi`. Objek `DetailTransaksi` dibuat langsung di dalam `__init__` milik `Transaksi`, sehingga tidak berdiri sendiri dan ikut hilang jika transaksinya dihapus.
 
-## Penerapan Inheritance(Pewarisan)
+## Penerapan Inheritance (Pewarisan)
 Superclass : `AlatCamping` memiliki Subclass : `Tenda` dan `Jaket`
 
 Penerapan super().init yaitu pada subclass yaitu `tenda` 
