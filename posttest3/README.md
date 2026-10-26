@@ -200,3 +200,8 @@ print(f"Diskon 2 tenda : Rp{produk1.hitung_diskon(2):,.0f}")
 print(f"Diskon 4 jaket : Rp{produk2.hitung_diskon(4):,.0f}") 
 ```
 Diskon 2 tenda = 10% x 500000 x 2 = Rp100.000 dan diskon 4 jaket = 5% x 150000 x 4 = Rp30.0000
+
+## OUTPUT PROGRAM
+![alt text](<Screenshot 2026-10-26 173122.png>)
+![alt text](<Screenshot 2026-10-26 173145.png>)
+![alt text](<Screenshot 2026-10-26 173156.png>)
